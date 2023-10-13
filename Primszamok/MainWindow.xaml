@@ -1,0 +1,19 @@
+﻿<Window x:Class="Primszamok.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Primszamok"
+        mc:Ignorable="d"
+        Title="Primszamok" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <TextBox x:Name="primesIn" Width="100" Height="30" PreviewTextInput="NumberValidation"/>
+            <Button Width="100" Height="30" Click="Button_Click">Get Primes up to</Button>
+            <Label x:Name="primesl" HorizontalAlignment="Center" />
+            <TextBox x:Name="isPrimeIn" Width="100" Height="30" PreviewTextInput="NumberValidation"/>
+            <Button Width="100" Height="30" Click="Button_Click1">Is Prime?</Button>
+            <Label x:Name="isPrimel" HorizontalAlignment="Center" />
+        </StackPanel>
+    </Grid>
+</Window>

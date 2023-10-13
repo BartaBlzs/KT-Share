@@ -1,0 +1,83 @@
+D:\Barta Balazs\1002\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.exe
+D:\Barta Balazs\1002\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.deps.json
+D:\Barta Balazs\1002\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.runtimeconfig.json
+D:\Barta Balazs\1002\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.dll
+D:\Barta Balazs\1002\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.pdb
+D:\Barta Balazs\1002\WpfApp1\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Barta Balazs\1002\WpfApp1\obj\Debug\net7.0-windows\App.g.cs
+D:\Barta Balazs\1002\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.cache
+D:\Barta Balazs\1002\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.lref
+D:\Barta Balazs\1002\WpfApp1\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Barta Balazs\1002\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.g.resources
+D:\Barta Balazs\1002\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Barta Balazs\1002\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\Barta Balazs\1002\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfo.cs
+D:\Barta Balazs\1002\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Barta Balazs\1002\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.dll
+D:\Barta Balazs\1002\WpfApp1\obj\Debug\net7.0-windows\refint\WpfApp1.dll
+D:\Barta Balazs\1002\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.pdb
+D:\Barta Balazs\1002\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.genruntimeconfig.cache
+D:\Barta Balazs\1002\WpfApp1\obj\Debug\net7.0-windows\ref\WpfApp1.dll
+D:\prog\kulb\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.exe
+D:\prog\kulb\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.deps.json
+D:\prog\kulb\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.runtimeconfig.json
+D:\prog\kulb\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.dll
+D:\prog\kulb\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.pdb
+D:\prog\kulb\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\prog\kulb\WpfApp1\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\prog\kulb\WpfApp1\obj\Debug\net7.0-windows\App.g.cs
+D:\prog\kulb\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.cache
+D:\prog\kulb\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.lref
+D:\prog\kulb\WpfApp1\obj\Debug\net7.0-windows\MainWindow.baml
+D:\prog\kulb\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.g.resources
+D:\prog\kulb\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog\kulb\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\prog\kulb\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfo.cs
+D:\prog\kulb\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\prog\kulb\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.dll
+D:\prog\kulb\WpfApp1\obj\Debug\net7.0-windows\refint\WpfApp1.dll
+D:\prog\kulb\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.pdb
+D:\prog\kulb\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.genruntimeconfig.cache
+D:\prog\kulb\WpfApp1\obj\Debug\net7.0-windows\ref\WpfApp1.dll
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.exe
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.deps.json
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.dll
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.pdb
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\WpfApp1\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\WpfApp1\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\WpfApp1\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.g.resources
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.dll
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\WpfApp1\obj\Debug\net7.0-windows\refint\WpfApp1.dll
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.pdb
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\WpfApp1\obj\Debug\net7.0-windows\ref\WpfApp1.dll
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\bin\Debug\net7.0-windows\WpfApp1.exe
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\bin\Debug\net7.0-windows\WpfApp1.deps.json
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\bin\Debug\net7.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\bin\Debug\net7.0-windows\WpfApp1.dll
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\bin\Debug\net7.0-windows\WpfApp1.pdb
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\obj\Debug\net7.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\obj\Debug\net7.0-windows\WpfApp1.g.resources
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\obj\Debug\net7.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\obj\Debug\net7.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\obj\Debug\net7.0-windows\WpfApp1.dll
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\obj\Debug\net7.0-windows\refint\WpfApp1.dll
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\obj\Debug\net7.0-windows\WpfApp1.pdb
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\obj\Debug\net7.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\barta_e7o0g1c\source\repos\up\Fuggvenyek\obj\Debug\net7.0-windows\ref\WpfApp1.dll

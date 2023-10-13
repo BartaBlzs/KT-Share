@@ -1,0 +1,62 @@
+D:\Barta Balazs\0926\cs\Zenekarok\Zenekarok\bin\Debug\net7.0-windows\Zenekarok.exe
+D:\Barta Balazs\0926\cs\Zenekarok\Zenekarok\bin\Debug\net7.0-windows\Zenekarok.deps.json
+D:\Barta Balazs\0926\cs\Zenekarok\Zenekarok\bin\Debug\net7.0-windows\Zenekarok.runtimeconfig.json
+D:\Barta Balazs\0926\cs\Zenekarok\Zenekarok\bin\Debug\net7.0-windows\Zenekarok.dll
+D:\Barta Balazs\0926\cs\Zenekarok\Zenekarok\bin\Debug\net7.0-windows\Zenekarok.pdb
+D:\Barta Balazs\0926\cs\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Barta Balazs\0926\cs\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\App.g.cs
+D:\Barta Balazs\0926\cs\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok_MarkupCompile.cache
+D:\Barta Balazs\0926\cs\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok_MarkupCompile.lref
+D:\Barta Balazs\0926\cs\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Barta Balazs\0926\cs\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.g.resources
+D:\Barta Balazs\0926\cs\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.GeneratedMSBuildEditorConfig.editorconfig
+D:\Barta Balazs\0926\cs\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.AssemblyInfoInputs.cache
+D:\Barta Balazs\0926\cs\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.AssemblyInfo.cs
+D:\Barta Balazs\0926\cs\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.csproj.CoreCompileInputs.cache
+D:\Barta Balazs\0926\cs\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.dll
+D:\Barta Balazs\0926\cs\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\refint\Zenekarok.dll
+D:\Barta Balazs\0926\cs\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.pdb
+D:\Barta Balazs\0926\cs\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.genruntimeconfig.cache
+D:\Barta Balazs\0926\cs\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\ref\Zenekarok.dll
+C:\Users\barta_e7o0g1c\source\repos\Zenekarok\Zenekarok\bin\Debug\net7.0-windows\Zenekarok.exe
+C:\Users\barta_e7o0g1c\source\repos\Zenekarok\Zenekarok\bin\Debug\net7.0-windows\Zenekarok.deps.json
+C:\Users\barta_e7o0g1c\source\repos\Zenekarok\Zenekarok\bin\Debug\net7.0-windows\Zenekarok.runtimeconfig.json
+C:\Users\barta_e7o0g1c\source\repos\Zenekarok\Zenekarok\bin\Debug\net7.0-windows\Zenekarok.dll
+C:\Users\barta_e7o0g1c\source\repos\Zenekarok\Zenekarok\bin\Debug\net7.0-windows\Zenekarok.pdb
+C:\Users\barta_e7o0g1c\source\repos\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.csproj.AssemblyReference.cache
+C:\Users\barta_e7o0g1c\source\repos\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\barta_e7o0g1c\source\repos\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\barta_e7o0g1c\source\repos\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok_MarkupCompile.cache
+C:\Users\barta_e7o0g1c\source\repos\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok_MarkupCompile.lref
+C:\Users\barta_e7o0g1c\source\repos\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\barta_e7o0g1c\source\repos\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.g.resources
+C:\Users\barta_e7o0g1c\source\repos\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barta_e7o0g1c\source\repos\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.AssemblyInfoInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.AssemblyInfo.cs
+C:\Users\barta_e7o0g1c\source\repos\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.csproj.CoreCompileInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.dll
+C:\Users\barta_e7o0g1c\source\repos\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\refint\Zenekarok.dll
+C:\Users\barta_e7o0g1c\source\repos\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.pdb
+C:\Users\barta_e7o0g1c\source\repos\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.genruntimeconfig.cache
+C:\Users\barta_e7o0g1c\source\repos\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\ref\Zenekarok.dll
+C:\Users\barta_e7o0g1c\source\repos\up\Zenekarok\Zenekarok\bin\Debug\net7.0-windows\Zenekarok.exe
+C:\Users\barta_e7o0g1c\source\repos\up\Zenekarok\Zenekarok\bin\Debug\net7.0-windows\Zenekarok.deps.json
+C:\Users\barta_e7o0g1c\source\repos\up\Zenekarok\Zenekarok\bin\Debug\net7.0-windows\Zenekarok.runtimeconfig.json
+C:\Users\barta_e7o0g1c\source\repos\up\Zenekarok\Zenekarok\bin\Debug\net7.0-windows\Zenekarok.dll
+C:\Users\barta_e7o0g1c\source\repos\up\Zenekarok\Zenekarok\bin\Debug\net7.0-windows\Zenekarok.pdb
+C:\Users\barta_e7o0g1c\source\repos\up\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.csproj.AssemblyReference.cache
+C:\Users\barta_e7o0g1c\source\repos\up\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\barta_e7o0g1c\source\repos\up\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\barta_e7o0g1c\source\repos\up\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok_MarkupCompile.cache
+C:\Users\barta_e7o0g1c\source\repos\up\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok_MarkupCompile.lref
+C:\Users\barta_e7o0g1c\source\repos\up\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\barta_e7o0g1c\source\repos\up\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.g.resources
+C:\Users\barta_e7o0g1c\source\repos\up\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barta_e7o0g1c\source\repos\up\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.AssemblyInfoInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\up\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.AssemblyInfo.cs
+C:\Users\barta_e7o0g1c\source\repos\up\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.csproj.CoreCompileInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\up\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.dll
+C:\Users\barta_e7o0g1c\source\repos\up\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\refint\Zenekarok.dll
+C:\Users\barta_e7o0g1c\source\repos\up\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.pdb
+C:\Users\barta_e7o0g1c\source\repos\up\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\Zenekarok.genruntimeconfig.cache
+C:\Users\barta_e7o0g1c\source\repos\up\Zenekarok\Zenekarok\obj\Debug\net7.0-windows\ref\Zenekarok.dll

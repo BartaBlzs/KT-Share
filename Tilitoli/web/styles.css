@@ -1,0 +1,47 @@
+*, *::before, *::after {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    height: inherit;
+}
+
+.container {
+    width: 700px;
+    height: 700px;
+    table-layout: fixed;
+}
+
+.container td {
+    font-size: 35px;
+    border: 1px solid black;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    transition: .2s;
+}
+
+.container td:hover{
+    backdrop-filter: brightness(95%);
+}
+
+.dnone{
+    display: none;
+}
+
+@media screen and (max-width: 750px) {
+    .container {
+        width: 90vw;
+        height: 90vw;
+    }
+}

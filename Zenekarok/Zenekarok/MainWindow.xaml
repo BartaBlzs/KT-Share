@@ -1,0 +1,35 @@
+﻿<Window x:Class="Zenekarok.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zenekarok"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TabControl>
+            <TabItem Header="zene">
+                <Grid>
+                    <ComboBox x:Name="zenecimek" SelectedValue="kul" SelectionChanged="znChange" VerticalAlignment="Top"></ComboBox>
+                    <Label Margin="0,22,0,0">Zene adatai:</Label>
+                    <Label x:Name="zenelb" Margin="0,58,0,0"></Label>
+                </Grid>
+
+            </TabItem>
+            <TabItem Header="zeneszek">
+                <Grid>
+                    <ComboBox x:Name="zeneszek" SelectedValue="kul" SelectionChanged="zeneszekChange" VerticalAlignment="Top" Grid.ColumnSpan="3"></ComboBox>
+
+                    <Label x:Name="hangszerlb" Margin="0,27,0,0"></Label>
+                    <StackPanel x:Name="zenekaroksp" Margin="0,89,0,0"></StackPanel>
+                </Grid>
+            </TabItem>
+            <TabItem Header="szamadatok">
+                <StackPanel>
+                    <Label x:Name="allMusicCount">Az összes zenedarab száma: </Label>
+                    <Label x:Name="allMusicSum">A zenedarabok összes lejátszási ideje: </Label>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

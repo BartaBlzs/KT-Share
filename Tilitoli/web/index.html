@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tili toli</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="flex">
+        <span>Méret:&nbsp;<input type="number">&nbsp;<button onclick="Generate()">Generál</button></span>
+        <table class="container dnone"></table>
+        <button class="dnone" onclick="shuffle()">Keverés</button>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <script>
+        var cellCount
+        var mt
+        var $tb = $('table.container')
+        
+        
+        function Generate() {
+            $tb.empty()
+            var c = 1
+            cellCount = parseInt($('input[type=number]').val())
+
+            for (let i = 0; i < cellCount; i++) {
+                var $tr = $('<tr></tr>')
+
+                for (let j = 0; j < cellCount; j++) {
+                    if(c != Math.pow(cellCount, 2)) {
+                        $tr.append($('<td></td>').append(c).attr('id', c).data('x', j).data('y', i).click((t) => tdClick(t.target)))
+                        c++
+                    }
+                    else{
+                        var td = $('<td></td>').attr('id', c).data('x', j).data('y', i).click((t) => tdClick(t.target))
+                        $tr.append(td)
+                        mt = td
+                    }
+                }
+                $tb.append($tr)
+            }
+            $('.dnone').removeClass('dnone')
+        }
+
+        function tdClick(sender) {
+            $t = $(sender)
+            if((parseInt($t.data('x'))+1 == mt.data('x') && $t.data('y') == mt.data('y')) || ($t.data('x') == mt.data('x') && parseInt($t.data('y'))+1 == mt.data('y'))
+            || (parseInt($t.data('x'))-1 == mt.data('x') && $t.data('y') == mt.data('y')) || ($t.data('x') == mt.data('x') && parseInt($t.data('y'))-1 == mt.data('y'))){
+                mt.append($t.text())
+                $t.empty()
+                mt = $t
+            }
+
+            setTimeout(() => {
+                var win = true
+                $.each($('td'), function(e, val) {
+                    if($(val).attr('id') != $(val).text() && $(val).attr('id') != Math.pow(cellCount, 2)){
+                        win = false
+                    }
+                })
+                if(win) alert("GG! You won!")
+            }, 100) // timeout to make the inside async
+            
+            
+        }
+
+        function shuffle(){
+            for (let i = 0; i < 1000*cellCount; i++) {
+                $.each($('td'), function(e, val){
+                    if($(val).attr('id') == parseInt(Math.random()*Math.pow(cellCount, 2)+1)) $(val).click()
+                })
+            }
+        }
+        
+    </script>
+</body>
+</html>
