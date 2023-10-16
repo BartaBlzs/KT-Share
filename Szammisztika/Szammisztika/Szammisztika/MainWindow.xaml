@@ -1,0 +1,21 @@
+﻿<Window x:Class="Szammisztika.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Szammisztika"
+        mc:Ignorable="d"
+        Title="Szammisztika" Height="450" Width="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center"
+                    VerticalAlignment="Center">
+            <TextBox Width="150" Height="30" x:Name="nametb"
+                     VerticalContentAlignment="Center"></TextBox>
+            <TextBox Width="150" Height="30" x:Name="dobtb"
+                     VerticalContentAlignment="Center"></TextBox>
+            <Button Height="30" Click="Calc">Számol</Button>
+            <Label Height="30" VerticalContentAlignment="Center"
+                   x:Name="outlb"/>
+        </StackPanel>
+    </Grid>
+</Window>
