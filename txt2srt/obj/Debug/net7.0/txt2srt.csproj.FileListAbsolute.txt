@@ -1,0 +1,29 @@
+D:\Barta Balazs\1106\txt2srt\bin\Debug\net7.0\txt2srt.exe
+D:\Barta Balazs\1106\txt2srt\bin\Debug\net7.0\txt2srt.deps.json
+D:\Barta Balazs\1106\txt2srt\bin\Debug\net7.0\txt2srt.runtimeconfig.json
+D:\Barta Balazs\1106\txt2srt\bin\Debug\net7.0\txt2srt.dll
+D:\Barta Balazs\1106\txt2srt\bin\Debug\net7.0\txt2srt.pdb
+D:\Barta Balazs\1106\txt2srt\obj\Debug\net7.0\txt2srt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Barta Balazs\1106\txt2srt\obj\Debug\net7.0\txt2srt.AssemblyInfoInputs.cache
+D:\Barta Balazs\1106\txt2srt\obj\Debug\net7.0\txt2srt.AssemblyInfo.cs
+D:\Barta Balazs\1106\txt2srt\obj\Debug\net7.0\txt2srt.csproj.CoreCompileInputs.cache
+D:\Barta Balazs\1106\txt2srt\obj\Debug\net7.0\txt2srt.dll
+D:\Barta Balazs\1106\txt2srt\obj\Debug\net7.0\refint\txt2srt.dll
+D:\Barta Balazs\1106\txt2srt\obj\Debug\net7.0\txt2srt.pdb
+D:\Barta Balazs\1106\txt2srt\obj\Debug\net7.0\txt2srt.genruntimeconfig.cache
+D:\Barta Balazs\1106\txt2srt\obj\Debug\net7.0\ref\txt2srt.dll
+C:\Users\barta_e7o0g1c\source\repos\sul\1106\txt2srt\bin\Debug\net7.0\txt2srt.exe
+C:\Users\barta_e7o0g1c\source\repos\sul\1106\txt2srt\bin\Debug\net7.0\txt2srt.deps.json
+C:\Users\barta_e7o0g1c\source\repos\sul\1106\txt2srt\bin\Debug\net7.0\txt2srt.runtimeconfig.json
+C:\Users\barta_e7o0g1c\source\repos\sul\1106\txt2srt\bin\Debug\net7.0\txt2srt.dll
+C:\Users\barta_e7o0g1c\source\repos\sul\1106\txt2srt\bin\Debug\net7.0\txt2srt.pdb
+C:\Users\barta_e7o0g1c\source\repos\sul\1106\txt2srt\obj\Debug\net7.0\txt2srt.csproj.AssemblyReference.cache
+C:\Users\barta_e7o0g1c\source\repos\sul\1106\txt2srt\obj\Debug\net7.0\txt2srt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barta_e7o0g1c\source\repos\sul\1106\txt2srt\obj\Debug\net7.0\txt2srt.AssemblyInfoInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\sul\1106\txt2srt\obj\Debug\net7.0\txt2srt.AssemblyInfo.cs
+C:\Users\barta_e7o0g1c\source\repos\sul\1106\txt2srt\obj\Debug\net7.0\txt2srt.csproj.CoreCompileInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\sul\1106\txt2srt\obj\Debug\net7.0\txt2srt.dll
+C:\Users\barta_e7o0g1c\source\repos\sul\1106\txt2srt\obj\Debug\net7.0\refint\txt2srt.dll
+C:\Users\barta_e7o0g1c\source\repos\sul\1106\txt2srt\obj\Debug\net7.0\txt2srt.pdb
+C:\Users\barta_e7o0g1c\source\repos\sul\1106\txt2srt\obj\Debug\net7.0\txt2srt.genruntimeconfig.cache
+C:\Users\barta_e7o0g1c\source\repos\sul\1106\txt2srt\obj\Debug\net7.0\ref\txt2srt.dll

@@ -1,0 +1,28 @@
+﻿<Window x:Class="Templomok.MainWindow"
+		xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+		xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+		xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+		xmlns:local="clr-namespace:Templomok"
+		mc:Ignorable="d"
+		Title="Templomok" Height="450" Width="800">
+    <Grid x:Name="grid">
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition />
+			<ColumnDefinition Width="4*"/>
+			<ColumnDefinition />
+		</Grid.ColumnDefinitions>
+        
+        <Image x:Name="leftimg" Height="300"
+               PreviewMouseUp="LeftClick" />
+		
+		<StackPanel Grid.Column="1">
+			<Image x:Name="img" MaxHeight="350" />
+            <Label x:Name="lbl" FontSize="15" HorizontalAlignment="Center"/>
+        </StackPanel>
+
+        <Image x:Name="rightimg" Height="300"
+               Grid.Column="2" PreviewMouseUp="RightClick" />
+
+	</Grid>
+</Window>

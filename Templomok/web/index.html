@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Templomok</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>  
+    <div class="flex">
+        <img src="pics/bal.png" alt="" onclick="Left()">
+        <div class="sp">
+            <img src="" alt="">
+            <span></span>
+        </div>
+        <img src="pics/jobb.png" alt="" onclick="Right()">
+    </div>
+    
+    <div class="ontop">
+        Select all the images:
+        <input type="file" multiple>
+    </div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script>
+    var files, pageIndex = 0
+    var text = ['Nagyboldog Asszony templom; 1253; Bélapátfalva','Szent György templom; 1256; Ják','Bencés Apátság; 1061; Kaposszentjakab','Szent Jakab apostol plébániatemplom; 1208; Lébény','Péter Pál református templom; 1250; Lónya','Boldogságos Szűz Mária református templom; 1250; Ócsa','Pannonhalmi Bencés Főapátság; 1350; Pannonhalma','Szent Demeter templom; 1000; Szeged','Mária látogatása templom; 1108; Tarnaszentmária','Gyümolcsoltó Boldogasszony prépostsági templom; 1250; Türje']
+    $('.ontop > input').change(function(e){
+        files = e.target.files
+        $('.ontop').css('display', 'none')
+        Render()
+    })
+
+    function Render() {
+        var tempi = pageIndex % files.length;
+        console.log(tempi)
+        var i = tempi < 0 ? tempi + files.length : tempi;
+        $('.sp > img').attr('src', URL.createObjectURL(files[i]))
+        $('.sp > span').text(text[i])
+    }
+
+    function Left() {
+        pageIndex--;
+        Render()
+    }
+
+    function Right() {
+        pageIndex++;
+        Render()
+    }
+
+</script>
+</body>
+</html>

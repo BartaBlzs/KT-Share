@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70%;
+    width: 80%;
+    overflow: hidden;
+}
+
+
+.flex > img {
+    height: 400px;
+}
+
+.flex > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 80%;
+    height: 80%;
+}
+
+.flex > div > img {
+    max-height: 100%;
+    max-width: 90%;
+    position: relative;
+}
+
+
+.ontop {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background: white;
+}
