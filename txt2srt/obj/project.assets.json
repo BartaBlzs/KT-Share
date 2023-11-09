@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\barta_e7o0g1c\\source\\repos\\sul\\1106\\txt2srt\\txt2srt.csproj",
+      "projectUniqueName": "C:\\Users\\barta_e7o0g1c\\source\\repos\\up\\txt2srt\\txt2srt.csproj",
       "projectName": "txt2srt",
-      "projectPath": "C:\\Users\\barta_e7o0g1c\\source\\repos\\sul\\1106\\txt2srt\\txt2srt.csproj",
+      "projectPath": "C:\\Users\\barta_e7o0g1c\\source\\repos\\up\\txt2srt\\txt2srt.csproj",
       "packagesPath": "C:\\Users\\barta_e7o0g1c\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\barta_e7o0g1c\\source\\repos\\sul\\1106\\txt2srt\\obj\\",
+      "outputPath": "C:\\Users\\barta_e7o0g1c\\source\\repos\\up\\txt2srt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\barta_e7o0g1c\\AppData\\Roaming\\NuGet\\NuGet.Config",

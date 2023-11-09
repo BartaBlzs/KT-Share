@@ -26,12 +26,12 @@ namespace txt2srt
 
         private static void feladat7()
         {
-            Console.WriteLine($"A legtöbb szóból álló felirat: {feliratok.Max(x => x.Szoszam)}");
+            Console.WriteLine($"7. feladat\nA legtöbb szóból álló felirat:\n{feliratok.Where(y => y.Szoszam == feliratok.Max(x => x.Szoszam)).FirstOrDefault()}");
         }
 
         private static void feladat5()
         {
-            Console.WriteLine($"Feliratok száma: {feliratok.Count}");
+            Console.WriteLine($"5. feladat\nFeliratok száma: {feliratok.Count}");
         }
 
         private static void beolvas()
@@ -55,22 +55,30 @@ namespace txt2srt
             Idozites = idozites;
             Felirat = felirat;
             SzavakSzama();
-            StrIdozites();
         }
 
         public string StrIdozites()
         {
-            var kezd = Idozites.Split('-')[0];
-            var veg = Idozites.Split('-')[1];
-            string srt = $"{int.Parse(kezd.Split(':')[0])/60:00}:{int.Parse(kezd.Split(':')[0])%60:00}:{kezd.Split(':')[1]:00} --> " +
-                         $"{int.Parse(veg.Split(':')[0]) / 60:00}:{int.Parse(veg.Split(':')[0]) % 60:00}:{veg.Split(':')[1]:00}\n" +
-                         $"{Felirat}";
-            return srt;
+            var start = Idozites.Split('-')[0];
+            var end = Idozites.Split('-')[1];
+
+            var spl = Array.ConvertAll(start.Split(':'), int.Parse);
+            TimeSpan startTs = new(spl[0] / 60, spl[0] % 60, spl[1]);
+
+            spl = Array.ConvertAll(end.Split(':'), int.Parse);
+            TimeSpan endTs = new(spl[0] / 60, spl[0] % 60, spl[1]);
+
+            return $"{startTs:hh\\:mm\\:ss} --> {endTs:hh\\:mm\\:ss}\n{Felirat}";
         }
 
         private void SzavakSzama()
         {
             Szoszam = Felirat.Split().Length;
+        }
+
+        public override string ToString()
+        {
+            return $"{Idozites}\n{Felirat}";
         }
     }
 }
