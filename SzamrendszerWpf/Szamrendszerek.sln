@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szamrendszerek", "Szamrendszerek.csproj", "{9B347C7B-D3EF-498B-AD30-01C3B861B767}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SzamrendszerAtvalto", "..\SzamrendszerAtvalto\SzamrendszerAtvalto.csproj", "{19C29922-C7CC-4FC3-8A07-2721AC5214C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B347C7B-D3EF-498B-AD30-01C3B861B767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B347C7B-D3EF-498B-AD30-01C3B861B767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B347C7B-D3EF-498B-AD30-01C3B861B767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B347C7B-D3EF-498B-AD30-01C3B861B767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19C29922-C7CC-4FC3-8A07-2721AC5214C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C29922-C7CC-4FC3-8A07-2721AC5214C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C29922-C7CC-4FC3-8A07-2721AC5214C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C29922-C7CC-4FC3-8A07-2721AC5214C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F468318B-698F-474E-A521-367DD5325B0D}
+	EndGlobalSection
+EndGlobal
