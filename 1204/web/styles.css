@@ -1,0 +1,29 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.flex > div {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.flex > div img {
+    width: 33%;
+}
+
+.flex > button {
+    width: 25%;
+    height: 40px;
+    background: orange;
+}
