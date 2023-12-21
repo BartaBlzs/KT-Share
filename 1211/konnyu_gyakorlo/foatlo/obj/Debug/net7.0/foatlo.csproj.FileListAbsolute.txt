@@ -1,0 +1,15 @@
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\foatlo\bin\Debug\net7.0\foatlo.exe
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\foatlo\bin\Debug\net7.0\foatlo.deps.json
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\foatlo\bin\Debug\net7.0\foatlo.runtimeconfig.json
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\foatlo\bin\Debug\net7.0\foatlo.dll
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\foatlo\bin\Debug\net7.0\foatlo.pdb
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\foatlo\obj\Debug\net7.0\foatlo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\foatlo\obj\Debug\net7.0\foatlo.AssemblyInfoInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\foatlo\obj\Debug\net7.0\foatlo.AssemblyInfo.cs
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\foatlo\obj\Debug\net7.0\foatlo.csproj.CoreCompileInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\foatlo\obj\Debug\net7.0\foatlo.sourcelink.json
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\foatlo\obj\Debug\net7.0\foatlo.dll
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\foatlo\obj\Debug\net7.0\refint\foatlo.dll
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\foatlo\obj\Debug\net7.0\foatlo.pdb
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\foatlo\obj\Debug\net7.0\foatlo.genruntimeconfig.cache
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\foatlo\obj\Debug\net7.0\ref\foatlo.dll

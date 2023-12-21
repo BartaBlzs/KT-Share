@@ -1,0 +1,15 @@
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\Latin4zet\bin\Debug\net7.0\Latin4zet.exe
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\Latin4zet\bin\Debug\net7.0\Latin4zet.deps.json
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\Latin4zet\bin\Debug\net7.0\Latin4zet.runtimeconfig.json
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\Latin4zet\bin\Debug\net7.0\Latin4zet.dll
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\Latin4zet\bin\Debug\net7.0\Latin4zet.pdb
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\Latin4zet\obj\Debug\net7.0\Latin4zet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\Latin4zet\obj\Debug\net7.0\Latin4zet.AssemblyInfoInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\Latin4zet\obj\Debug\net7.0\Latin4zet.AssemblyInfo.cs
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\Latin4zet\obj\Debug\net7.0\Latin4zet.csproj.CoreCompileInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\Latin4zet\obj\Debug\net7.0\Latin4zet.sourcelink.json
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\Latin4zet\obj\Debug\net7.0\Latin4zet.dll
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\Latin4zet\obj\Debug\net7.0\refint\Latin4zet.dll
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\Latin4zet\obj\Debug\net7.0\Latin4zet.pdb
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\Latin4zet\obj\Debug\net7.0\Latin4zet.genruntimeconfig.cache
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\Latin4zet\obj\Debug\net7.0\ref\Latin4zet.dll

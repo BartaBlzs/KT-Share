@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Latin4zet/1.0.0": {
+        "runtime": {
+          "Latin4zet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Latin4zet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

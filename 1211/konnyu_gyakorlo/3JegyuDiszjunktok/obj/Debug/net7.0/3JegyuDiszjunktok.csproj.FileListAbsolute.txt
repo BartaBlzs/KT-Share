@@ -1,0 +1,15 @@
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\3JegyuDiszjunktok\bin\Debug\net7.0\3JegyuDiszjunktok.exe
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\3JegyuDiszjunktok\bin\Debug\net7.0\3JegyuDiszjunktok.deps.json
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\3JegyuDiszjunktok\bin\Debug\net7.0\3JegyuDiszjunktok.runtimeconfig.json
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\3JegyuDiszjunktok\bin\Debug\net7.0\3JegyuDiszjunktok.dll
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\3JegyuDiszjunktok\bin\Debug\net7.0\3JegyuDiszjunktok.pdb
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\3JegyuDiszjunktok\obj\Debug\net7.0\3JegyuDiszjunktok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\3JegyuDiszjunktok\obj\Debug\net7.0\3JegyuDiszjunktok.AssemblyInfoInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\3JegyuDiszjunktok\obj\Debug\net7.0\3JegyuDiszjunktok.AssemblyInfo.cs
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\3JegyuDiszjunktok\obj\Debug\net7.0\3JegyuDiszjunktok.csproj.CoreCompileInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\3JegyuDiszjunktok\obj\Debug\net7.0\3JegyuDiszjunktok.sourcelink.json
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\3JegyuDiszjunktok\obj\Debug\net7.0\3JegyuDiszjunktok.dll
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\3JegyuDiszjunktok\obj\Debug\net7.0\refint\3JegyuDiszjunktok.dll
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\3JegyuDiszjunktok\obj\Debug\net7.0\3JegyuDiszjunktok.pdb
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\3JegyuDiszjunktok\obj\Debug\net7.0\3JegyuDiszjunktok.genruntimeconfig.cache
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1211\konnyu_gyakorlo\3JegyuDiszjunktok\obj\Debug\net7.0\ref\3JegyuDiszjunktok.dll
