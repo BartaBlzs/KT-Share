@@ -1,7 +1,0 @@
-D:\Barta Balazs\SzamrendszerAtvalto\bin\Debug\SzamrendszerAtvalto.exe.config
-D:\Barta Balazs\SzamrendszerAtvalto\bin\Debug\SzamrendszerAtvalto.exe
-D:\Barta Balazs\SzamrendszerAtvalto\bin\Debug\SzamrendszerAtvalto.pdb
-D:\Barta Balazs\SzamrendszerAtvalto\obj\Debug\SzamrendszerAtvalto.csproj.CoreCompileInputs.cache
-D:\Barta Balazs\SzamrendszerAtvalto\obj\Debug\SzamrendszerAtvalto.exe
-D:\Barta Balazs\SzamrendszerAtvalto\obj\Debug\SzamrendszerAtvalto.pdb
-D:\Barta Balazs\SzamrendszerAtvalto\obj\Debug\SzamrendszerAtvalto.csproj.AssemblyReference.cache

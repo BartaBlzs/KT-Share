@@ -1,0 +1,15 @@
+D:\Barta Balazs\Szamrendszerek\bin\Debug\Szamrendszerek.exe.config
+D:\Barta Balazs\Szamrendszerek\bin\Debug\Szamrendszerek.exe
+D:\Barta Balazs\Szamrendszerek\bin\Debug\Szamrendszerek.pdb
+D:\Barta Balazs\Szamrendszerek\obj\Debug\Szamrendszerek.csproj.AssemblyReference.cache
+D:\Barta Balazs\Szamrendszerek\obj\Debug\MainWindow.g.cs
+D:\Barta Balazs\Szamrendszerek\obj\Debug\App.g.cs
+D:\Barta Balazs\Szamrendszerek\obj\Debug\Szamrendszerek_MarkupCompile.cache
+D:\Barta Balazs\Szamrendszerek\obj\Debug\Szamrendszerek_MarkupCompile.lref
+D:\Barta Balazs\Szamrendszerek\obj\Debug\MainWindow.baml
+D:\Barta Balazs\Szamrendszerek\obj\Debug\Szamrendszerek.g.resources
+D:\Barta Balazs\Szamrendszerek\obj\Debug\Szamrendszerek.Properties.Resources.resources
+D:\Barta Balazs\Szamrendszerek\obj\Debug\Szamrendszerek.csproj.GenerateResource.cache
+D:\Barta Balazs\Szamrendszerek\obj\Debug\Szamrendszerek.csproj.CoreCompileInputs.cache
+D:\Barta Balazs\Szamrendszerek\obj\Debug\Szamrendszerek.exe
+D:\Barta Balazs\Szamrendszerek\obj\Debug\Szamrendszerek.pdb
