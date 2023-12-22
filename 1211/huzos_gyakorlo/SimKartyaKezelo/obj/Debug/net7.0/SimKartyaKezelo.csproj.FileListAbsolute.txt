@@ -1,0 +1,14 @@
+C:\Users\barta_e7o0g1c\source\repos\huzos_gyakorlo\SimKartyaKezelo\bin\Debug\net7.0\SimKartyaKezelo.exe
+C:\Users\barta_e7o0g1c\source\repos\huzos_gyakorlo\SimKartyaKezelo\bin\Debug\net7.0\SimKartyaKezelo.deps.json
+C:\Users\barta_e7o0g1c\source\repos\huzos_gyakorlo\SimKartyaKezelo\bin\Debug\net7.0\SimKartyaKezelo.runtimeconfig.json
+C:\Users\barta_e7o0g1c\source\repos\huzos_gyakorlo\SimKartyaKezelo\bin\Debug\net7.0\SimKartyaKezelo.dll
+C:\Users\barta_e7o0g1c\source\repos\huzos_gyakorlo\SimKartyaKezelo\bin\Debug\net7.0\SimKartyaKezelo.pdb
+C:\Users\barta_e7o0g1c\source\repos\huzos_gyakorlo\SimKartyaKezelo\obj\Debug\net7.0\SimKartyaKezelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barta_e7o0g1c\source\repos\huzos_gyakorlo\SimKartyaKezelo\obj\Debug\net7.0\SimKartyaKezelo.AssemblyInfoInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\huzos_gyakorlo\SimKartyaKezelo\obj\Debug\net7.0\SimKartyaKezelo.AssemblyInfo.cs
+C:\Users\barta_e7o0g1c\source\repos\huzos_gyakorlo\SimKartyaKezelo\obj\Debug\net7.0\SimKartyaKezelo.csproj.CoreCompileInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\huzos_gyakorlo\SimKartyaKezelo\obj\Debug\net7.0\SimKartyaKezelo.dll
+C:\Users\barta_e7o0g1c\source\repos\huzos_gyakorlo\SimKartyaKezelo\obj\Debug\net7.0\refint\SimKartyaKezelo.dll
+C:\Users\barta_e7o0g1c\source\repos\huzos_gyakorlo\SimKartyaKezelo\obj\Debug\net7.0\SimKartyaKezelo.pdb
+C:\Users\barta_e7o0g1c\source\repos\huzos_gyakorlo\SimKartyaKezelo\obj\Debug\net7.0\SimKartyaKezelo.genruntimeconfig.cache
+C:\Users\barta_e7o0g1c\source\repos\huzos_gyakorlo\SimKartyaKezelo\obj\Debug\net7.0\ref\SimKartyaKezelo.dll
