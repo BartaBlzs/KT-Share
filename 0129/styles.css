@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.flex {
+    width: 100vw;
+    height: 100vh;
+    background: #414141;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: center;
+    padding: 30px;
+}
+
+.flex > img {
+    width: calc(33% - 50px);
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
