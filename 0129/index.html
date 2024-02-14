@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="flex">
+        
+    </div>
+</body>
+<script>
+    var audio = new Audio()
+    for(let i = 11; i < 20; i++) {
+        var img = document.createElement('img')
+        img.src = 'pictures/' + i + '.png'
+        document.querySelector('.flex').appendChild(img)
+        img.addEventListener('click', (e) => {
+            if(audio.src.toString().includes('music/' + i + '.mp3')){
+                if(audio.paused) audio.play()
+                else audio.pause()
+            }
+            else {
+                audio.src = 'music/' + i + '.mp3'
+                audio.play()
+            }
+        })
+    }
+</script>
+</html>
