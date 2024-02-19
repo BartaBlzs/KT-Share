@@ -1,0 +1,85 @@
+﻿<Window x:Class="mozijegy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:mozijegy"
+        mc:Ignorable="d" WindowState="Maximized"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Button Visibility="Collapsed"
+                Content="Jegy vásárlása"
+                Width="150" Height="50" />
+
+        <StackPanel x:Name="outersp" Grid.Column="1"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center">
+            <StackPanel.Resources>
+                <Style TargetType="local:Seat">
+                    <Setter Property="BorderBrush" Value="Black" />
+                    <Setter Property="BorderThickness" Value="1" />
+                    <Setter Property="Margin" Value="3 5 3 5" />
+                    <Style.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="8" />
+                        </Style>
+                    </Style.Resources>
+                </Style>
+            </StackPanel.Resources>
+        </StackPanel>
+        <TextBlock Text="Foglaljon jegyet, azonnal, egyszerűen, nálunk!"
+                   TextWrapping="Wrap"
+                   TextAlignment="Justify"
+                   Width="300"
+                   FontWeight="Black"
+                   FontSize="50"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center" />
+        <Grid Grid.Column="2" Margin="50 20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Label FontSize="40"
+                   FontWeight="Bold"
+                   Grid.ColumnSpan="2"
+                   HorizontalAlignment="Center"
+                   Content="Választott helyek"/>
+            <Label Content="Sor"
+                   Grid.Row="1"
+                   FontSize="25"
+                   FontWeight="DemiBold"
+                   HorizontalAlignment="Center" />
+            <Label Content="Szék"
+                   Grid.Row="1"
+                   FontSize="25"
+                   Grid.Column="1" 
+                   FontWeight="DemiBold"
+                   HorizontalAlignment="Center" />
+            <ScrollViewer Grid.Row="2"
+                          VerticalScrollBarVisibility="Auto"
+                          Grid.ColumnSpan="2">
+                <StackPanel x:Name="cont">
+                    <StackPanel.Resources>
+                        <Style TargetType="Label">
+                            <Setter Property="FontSize" Value="20" />
+                            <Setter Property="FontWeight" Value="DemiBold" />
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </StackPanel.Resources>
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>
+
+    </Grid>
+</Window>
