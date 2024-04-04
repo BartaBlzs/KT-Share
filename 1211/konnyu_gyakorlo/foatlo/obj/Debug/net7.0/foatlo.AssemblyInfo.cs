@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("foatlo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd8727a481fd14af4a466b70573665947b714bfa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae5faffeedf5332766bc596988b1de413f511d4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("foatlo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("foatlo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

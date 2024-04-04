@@ -1,0 +1,81 @@
+﻿<Window x:Class="Strings.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Strings"
+        mc:Ignorable="d" Background="#a1beed"
+        Title="MainWindow" Height="500" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <StackPanel VerticalAlignment="Center">
+            <Label Content="A vektor elemei:"
+           Visibility="Hidden" x:Name="vElemei"
+           HorizontalAlignment="Center"
+           Margin="0 10 0 0"/>
+            <ListBox x:Name="lb" Margin="20" 
+             Height="300" Visibility="Hidden" />
+            <Button Content="Elemek megjelenítése"
+            Margin="20 0" Height="40" Click="Start" />
+        </StackPanel>
+        <Grid VerticalAlignment="Center"
+      IsEnabled="False" x:Name="disableGrid" Grid.ColumnSpan="2" Margin="191,0,9,0">
+            <Grid.Resources>
+                <Style TargetType="RadioButton">
+                    <Setter Property="GroupName" Value="G1" />
+                    <Setter Property="Margin" Value="7" />
+                </Style>
+            </Grid.Resources>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <Label Content="Választható menüpontok" Margin="0 10 0 0" />
+            <StackPanel Grid.Row="1">
+                <RadioButton Content="Nagybetus nevek" 
+                     PreviewMouseDown="_1" />
+                <RadioButton Content="az elso 'L' betuvel kezdodo"
+                     PreviewMouseDown="_2" />
+                <RadioButton Content="az utolso 'L' betuvel kezdodo"
+                     PreviewMouseDown="_3" />
+                <RadioButton Content="az elso 'T' betuvel kezdodo"
+                     PreviewMouseDown="_4" />
+                <RadioButton Content="az elso otnel hosszabb"
+                     PreviewMouseDown="_5" />
+                <RadioButton Content="Az elso 'T' betut tartalmazo"
+                     PreviewMouseDown="_6" />
+                <RadioButton Content="Az osszes 'T' betut tartalmazo"
+                     PreviewMouseDown="_7" />
+            </StackPanel>
+            <StackPanel Grid.Row="1" Grid.Column="1" Margin="0,0,-24,0">
+                <RadioButton Content="Van e 'T' betuvel kezdodo"
+                         PreviewMouseDown="_8" />
+                <RadioButton Content="Az osszes 'P' vel kezdodo torlese"
+                         PreviewMouseDown="_9" />
+                <RadioButton Content="A 'P' vel kezdodo nevek visszahelyezese"
+                         PreviewMouseDown="_10" />
+                <RadioButton Content="Minden nev legalabb 4 karakter?"
+                         PreviewMouseDown="_11" />
+                <RadioButton Content="Irjuk minden nev moge, hogy okos"
+                         PreviewMouseDown="_12" />
+                <RadioButton Content="irjuk ki minden nev hosszat"
+                         PreviewMouseDown="_13" />
+                <RadioButton Content="nevek es hosszok egyutt"
+                         PreviewMouseDown="_14" />
+            </StackPanel>
+        </Grid>
+        <ListBox x:Name="output"
+         Grid.Column="2"
+         Margin="20" 
+         Height="300" 
+         VerticalAlignment="Center" />
+    </Grid>
+</Window>

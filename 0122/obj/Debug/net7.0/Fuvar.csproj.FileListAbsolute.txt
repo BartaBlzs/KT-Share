@@ -1,0 +1,15 @@
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0122\bin\Debug\net7.0\Fuvar.exe
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0122\bin\Debug\net7.0\Fuvar.deps.json
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0122\bin\Debug\net7.0\Fuvar.runtimeconfig.json
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0122\bin\Debug\net7.0\Fuvar.dll
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0122\bin\Debug\net7.0\Fuvar.pdb
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0122\obj\Debug\net7.0\Fuvar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0122\obj\Debug\net7.0\Fuvar.AssemblyInfoInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0122\obj\Debug\net7.0\Fuvar.AssemblyInfo.cs
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0122\obj\Debug\net7.0\Fuvar.csproj.CoreCompileInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0122\obj\Debug\net7.0\Fuvar.sourcelink.json
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0122\obj\Debug\net7.0\Fuvar.dll
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0122\obj\Debug\net7.0\refint\Fuvar.dll
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0122\obj\Debug\net7.0\Fuvar.pdb
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0122\obj\Debug\net7.0\Fuvar.genruntimeconfig.cache
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0122\obj\Debug\net7.0\ref\Fuvar.dll
