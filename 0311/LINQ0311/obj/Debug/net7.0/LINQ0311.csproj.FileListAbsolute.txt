@@ -1,0 +1,15 @@
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0311\LINQ0311\bin\Debug\net7.0\LINQ0311.exe
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0311\LINQ0311\bin\Debug\net7.0\LINQ0311.deps.json
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0311\LINQ0311\bin\Debug\net7.0\LINQ0311.runtimeconfig.json
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0311\LINQ0311\bin\Debug\net7.0\LINQ0311.dll
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0311\LINQ0311\bin\Debug\net7.0\LINQ0311.pdb
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0311\LINQ0311\obj\Debug\net7.0\LINQ0311.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0311\LINQ0311\obj\Debug\net7.0\LINQ0311.AssemblyInfoInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0311\LINQ0311\obj\Debug\net7.0\LINQ0311.AssemblyInfo.cs
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0311\LINQ0311\obj\Debug\net7.0\LINQ0311.csproj.CoreCompileInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0311\LINQ0311\obj\Debug\net7.0\LINQ0311.sourcelink.json
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0311\LINQ0311\obj\Debug\net7.0\LINQ0311.dll
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0311\LINQ0311\obj\Debug\net7.0\refint\LINQ0311.dll
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0311\LINQ0311\obj\Debug\net7.0\LINQ0311.pdb
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0311\LINQ0311\obj\Debug\net7.0\LINQ0311.genruntimeconfig.cache
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\0311\LINQ0311\obj\Debug\net7.0\ref\LINQ0311.dll
