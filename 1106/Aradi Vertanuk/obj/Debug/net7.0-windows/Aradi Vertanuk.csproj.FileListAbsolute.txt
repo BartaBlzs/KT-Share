@@ -49,3 +49,30 @@ C:\Users\barta_e7o0g1c\source\repos\sul\1106\Aradi Vertanuk\obj\Debug\net7.0-win
 C:\Users\barta_e7o0g1c\source\repos\sul\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\ref\Aradi Vertanuk.dll
 C:\Users\barta_e7o0g1c\source\repos\sul\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\UtolsoMondat.g.cs
 C:\Users\barta_e7o0g1c\source\repos\sul\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\UtolsoMondat.baml
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\bin\Debug\net7.0-windows\Aradi Vertanuk.exe
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\bin\Debug\net7.0-windows\Aradi Vertanuk.deps.json
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\bin\Debug\net7.0-windows\Aradi Vertanuk.runtimeconfig.json
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\bin\Debug\net7.0-windows\Aradi Vertanuk.dll
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\bin\Debug\net7.0-windows\Aradi Vertanuk.pdb
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\ArcNev.g.cs
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\Kakukk.g.cs
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\UtolsoMondat.g.cs
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\Aradi Vertanuk_MarkupCompile.cache
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\Aradi Vertanuk_MarkupCompile.lref
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\ArcNev.baml
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\Kakukk.baml
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\UtolsoMondat.baml
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\Aradi Vertanuk.g.resources
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\Aradi Vertanuk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\Aradi Vertanuk.AssemblyInfoInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\Aradi Vertanuk.AssemblyInfo.cs
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\Aradi Vertanuk.csproj.CoreCompileInputs.cache
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\Aradi Vertanuk.sourcelink.json
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\Aradi Vertanuk.dll
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\refint\Aradi Vertanuk.dll
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\Aradi Vertanuk.pdb
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\Aradi Vertanuk.genruntimeconfig.cache
+C:\Users\barta_e7o0g1c\source\repos\KT-Share\1106\Aradi Vertanuk\obj\Debug\net7.0-windows\ref\Aradi Vertanuk.dll

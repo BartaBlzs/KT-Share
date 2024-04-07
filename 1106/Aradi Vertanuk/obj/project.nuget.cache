@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sS6b6xVLXiwBCOw93C1oZoI+SnzWagzx8ltgU9miy2qSp5MrgwAes9ziFywOoTZMOq/bQmHqThgvacU8QaRgeQ==",
+  "dgSpecHash": "iACN/J5JiZfz918e2QtzfZI24Zyg0fdk3c/+4YAuMp7tLTSESqsh+kRpT5wKxqQRi5F7+mJgoW1yyi9mRw6+zA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\barta_e7o0g1c\\source\\repos\\sul\\1106\\Aradi Vertanuk\\Aradi Vertanuk.csproj",
+  "projectFilePath": "C:\\Users\\barta_e7o0g1c\\source\\repos\\KT-Share\\1106\\Aradi Vertanuk\\Aradi Vertanuk.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\barta_e7o0g1c\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\barta_e7o0g1c\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

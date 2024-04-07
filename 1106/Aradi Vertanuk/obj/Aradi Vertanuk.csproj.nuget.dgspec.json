@@ -1,27 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\barta_e7o0g1c\\source\\repos\\sul\\1106\\Aradi Vertanuk\\Aradi Vertanuk.csproj": {}
+    "C:\\Users\\barta_e7o0g1c\\source\\repos\\KT-Share\\1106\\Aradi Vertanuk\\Aradi Vertanuk.csproj": {}
   },
   "projects": {
-    "C:\\Users\\barta_e7o0g1c\\source\\repos\\sul\\1106\\Aradi Vertanuk\\Aradi Vertanuk.csproj": {
+    "C:\\Users\\barta_e7o0g1c\\source\\repos\\KT-Share\\1106\\Aradi Vertanuk\\Aradi Vertanuk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\barta_e7o0g1c\\source\\repos\\sul\\1106\\Aradi Vertanuk\\Aradi Vertanuk.csproj",
+        "projectUniqueName": "C:\\Users\\barta_e7o0g1c\\source\\repos\\KT-Share\\1106\\Aradi Vertanuk\\Aradi Vertanuk.csproj",
         "projectName": "Aradi Vertanuk",
-        "projectPath": "C:\\Users\\barta_e7o0g1c\\source\\repos\\sul\\1106\\Aradi Vertanuk\\Aradi Vertanuk.csproj",
+        "projectPath": "C:\\Users\\barta_e7o0g1c\\source\\repos\\KT-Share\\1106\\Aradi Vertanuk\\Aradi Vertanuk.csproj",
         "packagesPath": "C:\\Users\\barta_e7o0g1c\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\barta_e7o0g1c\\source\\repos\\sul\\1106\\Aradi Vertanuk\\obj\\",
+        "outputPath": "C:\\Users\\barta_e7o0g1c\\source\\repos\\KT-Share\\1106\\Aradi Vertanuk\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "D:\\Program Files (x86)\\Syncfusion\\WPF\\24.1.41\\ToolboxNuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\barta_e7o0g1c\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
         ],
         "originalTargetFrameworks": [
           "net7.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +71,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
