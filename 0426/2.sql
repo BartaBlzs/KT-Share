@@ -1,0 +1,1 @@
+SELECT SUM(`javitasok`.`iranyar`) FROM `javitasok`;
