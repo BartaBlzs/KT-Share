@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'digital';
+    src: url('src/digital-7.ttf')  format('truetype')
+}
+
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.clock {
+    width: 80%;
+    height: 50%;
+    background: gray;
+    border-radius: 20px;
+}
+
+.clock > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    height: 100%;
+    gap: 5%;
+
+    user-select: none;
+    font-size: 350px;
+    font-family: 'digital';
+}
+
+.clock > div > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    height: 80%;
+    width: 15%;
+    background-color: white;
+    border-radius: 20px;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+}

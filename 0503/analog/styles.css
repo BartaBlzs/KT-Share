@@ -1,0 +1,183 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: #D9D7DD;
+}
+  
+.clock {
+    border-radius: 100%;
+    background: #ffffff;
+    border: 5px solid white;
+    box-shadow: inset 2px 3px 8px 0 rgba(0, 0, 0, 0.1);
+}
+  
+.wrap {
+    overflow: hidden;
+    position: relative;
+    width: 350px;
+    height: 350px;
+    border-radius: 100%;
+}
+  
+.minute {
+    position: absolute;
+    height: 100px;
+    width: 6px;
+    margin: auto;
+    top: -27%;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: black;
+    transform-origin: bottom center;
+    transform: rotate(0deg);
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.4);
+    z-index: 1;
+}
+  
+.minute {
+    position: absolute;
+    height: 130px;
+    width: 4px;
+    top: -38%;
+    left: 0;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.4);
+    transform: rotate(90deg);
+}
+  
+.second {
+    position: absolute;
+    height: 90px;
+    width: 2px;
+    margin: auto;
+    top: -26%;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    border-radius: 4px;
+    background: #FF4B3E;
+    transform-origin: bottom center;
+    transform: rotate(180deg);
+    z-index: 1;
+}
+  
+.dot {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 12px;
+    height: 12px;
+    border-radius: 100px;
+    background: white;
+    border: 2px solid #1b1b1b;
+    border-radius: 100px;
+    margin: auto;
+    z-index: 1;
+}
+
+.num-input {
+    display: block;
+    width: 100%;
+    padding: 8px 16px;
+    line-height: 25px;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: inherit;
+    border-radius: 6px;
+    -webkit-appearance: none;
+    color: #99a3ba;
+    border: 1px solid #cdd9ed;
+    background: #fff;
+    transition: border 0.3s ease;
+}
+
+.num-input::placeholder {
+    color: #cbd1dc;
+}
+
+.num-input:focus {
+    outline: none;
+    border-color: #275efe;
+}
+
+.input-container {
+    position: relative;
+    display: flex;
+    width: 100%;
+}
+
+.input-container > span,
+.input-container .num-input {
+    white-space: nowrap;
+    display: block;
+}
+
+.input-container > span:not(:first-child):not(:last-child),
+.input-container .num-input:not(:first-child):not(:last-child) {
+    border-radius: 0;
+}
+
+.input-container > span:first-child,
+.input-container .num-input:first-child {
+    border-radius: 6px 0 0 6px;
+}
+
+.input-container > span:last-child,
+.input-container .num-input:last-child {
+    border-radius: 0 6px 6px 0;
+}
+
+.input-container > span:not(:first-child),
+.input-container .num-input:not(:first-child) {
+    margin-left: -1px;
+}
+
+.input-container .num-input {
+    position: relative;
+    z-index: 1;
+    flex: 1 1 auto;
+    width: 1%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.input-container > span {
+    text-align: center;
+    padding: 8px 12px;
+    font-size: 14px;
+    line-height: 25px;
+    color: #99a3ba;
+    background: #eef4ff;
+    border: 1px solid #99a3ba;
+    transition: background 0.3s ease, border 0.3s ease, color 0.3s ease;
+}
+
+.input-container:focus-within > span {
+    color: #fff;
+    background: #678efe;
+    border-color: #275efe;
+}
+
+.input-container > span:hover {
+    border-color: #0a58ca;
+    background-color: #0b5ed7;
+}
+
+body .input-container {
+    max-width: 360px;
+}
+
+body .input-container:not(:last-child) {
+    margin-bottom: 32px;
+}

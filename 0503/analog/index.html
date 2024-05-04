@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analog</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+    
+</head>
+<body>
+    <div class="center">
+        <div class="input-container">
+            <input class="num-input" type="number" placeholder="minutes">
+            <span onclick="start()" class="btn btn-primary stop-btn">Start</span>
+            <span onclick="Reset()" class="btn btn-primary">Reset</span>
+        </div>
+        <div class="clock">
+            <div class="wrap">
+                <span class="minute"></span>
+                <span class="second"></span>
+                <span class="dot"></span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+<script>
+    var stopbtn = $('.stop-btn')
+    var stopped = true
+    var reset = true
+    var min = 10
+    var sec = 0
+    var ogM
+
+    function clock() {
+        sec -= 1
+        if(sec == -1) {
+            sec = 59
+            min -= 1
+            if(min == -1) end()
+        }
+        render()
+    }
+
+    function render() {
+        $('.minute').css('transform', `rotate(${min * 6}deg)`)
+        $('.second').css('transform', `rotate(${sec * 6}deg)`)
+    }
+
+    function end() {
+        min = 0
+        sec = 0
+        stopbtn.text('Start')
+        stopped = true
+        clearInterval(s)
+        var audio = new Audio('src/alarm.mp3')
+        audio.play()
+        render()
+    }
+
+    var s
+    function start() {
+        if (!reset) {
+            if(stopped)  s = setInterval(clock, 200)
+            else clearInterval(s)
+        }
+        else 
+        {
+            reset = false
+            var val = $('.num-input').val() - 0
+            if(val <= 60) {
+                min = $('.num-input').val()
+                ogM = min
+                sec = 0
+                s = setInterval(clock, 200)
+            }
+            else stopped = !stopped
+        }
+
+        stopped = !stopped
+        if(stopped) stopbtn.text('Start')
+        else stopbtn.text('Stop')
+    }
+
+    function Reset() {
+        reset = true
+        stopped = true
+        stopbtn.text('Start')
+        clearInterval(s)
+        min = ogM
+        sec = 0
+        render()
+    }
+
+    render()
+</script>

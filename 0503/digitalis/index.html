@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digitalis</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+    
+</head>
+<body>
+    <div class="clock">
+        <div>
+            <div>1</div>
+            <div>0</div>
+            :
+            <div>0</div>
+            <div>0</div>
+        </div>
+    </div>
+    <div>
+        <button class="btn btn-primary stop-btn" onclick="startStop()">Start</button>
+        <button class="btn btn-danger reset-btn" onclick="reset()">Reset</button>
+        <button class="btn btn-success set-btn" onclick="set()">Set</button>
+        
+    </div>
+</body>
+</html>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+<script>
+    var sec = 0
+    var min = 10
+    var stopped = true
+    var nums = $('.clock > div > div')
+    var stopbtn = $('.stop-btn')
+    var og;
+
+    function startStop() {
+        stopped = !stopped
+        if(!stopped) {
+            stopbtn.text('Stop')
+            var intr = setInterval(function() {
+
+                if(stopped) {
+                    clearInterval(intr)
+                    stopbtn.text('Start')
+                }
+                else {
+                    sec -= 1
+                    if(sec == -1) {
+                        sec = 59
+                        min -= 1
+                        if(min == -1) end()
+                    }
+                    render()
+                }
+                
+            }, 1000)
+        }
+        else {
+            stopbtn.text('Start')
+            stopped = true
+        }
+    }
+
+    function render() {
+        var m = (min).toLocaleString('en-US', {minimumIntegerDigits : 2, useGrouping : false})
+        var s = (sec).toLocaleString('en-US', {minimumIntegerDigits : 2, useGrouping : false})
+        nums.eq(0).text(m[0])
+        nums.eq(1).text(m[1])
+        nums.eq(2).text(s[0])
+        nums.eq(3).text(s[1])
+    }
+
+    function end() {
+        min = 0
+        sec = 0
+        stopbtn.text('Start')
+        stopped = true
+        var audio = new Audio('src/alarm.mp3')
+        audio.play()
+        render()
+    }
+
+    function reset() {
+        stopped = true
+        if(chars == null) {
+            min = 10
+            sec = 0
+        }
+        else {
+            min = chars[0] + chars[1] - 0
+            sec = chars[2] + chars[3] - 0
+        }
+        render()
+    }
+
+    var chars
+    function set() {
+        chars = []
+        clear()
+        var count = 0
+        $(window).keypress(function(e) {
+            valid = true
+            if(!isNaN(e.key)) {
+                if(count == 0 && e.key > 6) valid = false
+                if(count == 1 && chars[0] == 6 && e.key != 0) valid = false
+                if(count == 2 && e.key > 5) valid = false
+                if((count == 2 || count == 3) && chars[0] == 6 && e.key != 0) valid = false
+            }
+            else valid = false
+
+            if(valid) {
+                chars.push(e.key.toString())
+                nums.eq(count).text(e.key)
+                if(count++ == 3) {
+                    min = chars[0] + chars[1] - 0
+                    sec = chars[2] + chars[3] - 0
+                    $(window).off('keypress')
+                }
+            }
+        })
+    }
+
+    function clear() {
+        nums.text('')
+        $(window).off('keypress')
+    }
+
+</script>
