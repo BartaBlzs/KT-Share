@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\KT-Share\\0429\\Termatrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19E39B77-A04F-44DD-897B-0BDE9559385B}|Termatrix\\Termatrix.csproj|d:\\repos\\kt-share\\0429\\termatrix\\termatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E39B77-A04F-44DD-897B-0BDE9559385B}|Termatrix\\Termatrix.csproj|solutionrelative:termatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\KT-Share\\0429\\Termatrix\\Termatrix\\Program.cs",
+              "RelativeDocumentMoniker": "Termatrix\\Program.cs",
+              "ToolTip": "D:\\repos\\KT-Share\\0429\\Termatrix\\Termatrix\\Program.cs",
+              "RelativeToolTip": "Termatrix\\Program.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:42:23.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
